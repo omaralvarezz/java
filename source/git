@@ -1,0 +1,13 @@
+1.clone
+git clone https://
+
+2. make changes
+  ./source/Hello.java
+3.commit changes
+ > git add ./source/Hello.java
+ >git status
+ >git commit -m "Add kkkk"
+4.push your commits to github
+git push
+
+
